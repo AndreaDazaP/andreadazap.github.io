@@ -1,7 +1,8 @@
 ## Bienvenidos a mi pagina web
 
 Creada por Andrea Daza 
-puedes usar el [editor de GitHub](https://github.com/AndreaDazaP/andreadazap.github.io/edit/main/index.md) para mantener la vista previa de tu web en los ficheros de Markdown
+
+Puedes usar el [editor de GitHub](https://github.com/AndreaDazaP/andreadazap.github.io/edit/main/index.md) para mantener la vista previa de tu web en los ficheros de Markdown
 
 Cuando tu haces un commit to this repository, las paguinas de GitHub van a [Jekyll](https://jekyllrb.com/) para reconstruir las paginas de tu sitio, desde el contenido de tus ficheros de Markdown.
 

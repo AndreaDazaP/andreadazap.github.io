@@ -1,8 +1,8 @@
 ## Bienvenidos a mi pagina web
 
-You can use the [editor on GitHub](https://github.com/AndreaDazaP/andreadazap.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+puedes usar el [editor de GitHub](https://github.com/AndreaDazaP/andreadazap.github.io/edit/main/index.md) para mantener la vista previa de tu web en los ficheros de Markdown
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Cuando tu haces un commit to this repository, las paguinas de GitHub van a [Jekyll](https://jekyllrb.com/) para reconstruir las paginas de tu sitio, desde el contenido de tus ficheros de Markdown.
 
 ### Markdown
 algunas ayudas de markdown son estas de aqui abajo
